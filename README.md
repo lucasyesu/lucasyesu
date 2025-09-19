@@ -29,11 +29,11 @@
 ---
 
 ## 📱 Me siga nas redes
-<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <a href="https://www.instagram.com/luccs__/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucas-rafael-32208026a/" target="_blank" style="font-size: 18px; text-decoration: none; color: #0A66C2; font-weight: bold;">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/lucas-rafael-32208026a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
