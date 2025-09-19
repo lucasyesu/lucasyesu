@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Rafael!
+# 👋 Olá, eu sou Lucas Rafael!
 
 💻 Desenvolvedor full-stack: **Frontend & Backend**
 
