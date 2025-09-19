@@ -1,34 +1,36 @@
 # 👋 Olá, eu sou o Lucas Rafael!
 
-💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo.  
-🚀 Atualmente explorando **desenvolvimento web**, **backend** e boas práticas de **arquitetura de software**.  
+💻 Desenvolvedor focado em **Web & Backend**  
+🚀 Explorando **Docker, Python e boas práticas de arquitetura**  
 
 ---
 
-## 🌟 Sobre mim
-- 🎓 Estudante de **Engenharia de Software / Computação** (em andamento).
-- 🔭 Trabalhando em projetos pessoais, acadêmicos e profissionais para aprimorar minhas habilidades.
-- 🌱 Atualmente aprendendo **Docker** e **Python**.
-- ⚡ Curiosidade: gosto de unir **tecnologia + design**, buscando soluções que sejam funcionais e bonitas.
+## 🛠️ Tecnologias
+<div align="center">
+
+<!-- Linguagens -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+
+<!-- Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> 
+
+<!-- Outros -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-### 🚀 Linguagens & Frameworks
-- JavaScript | PHP | Python  
-- Node.js | React | Symfony | Twig 
-
-### 🗄️ Banco de Dados
-- MySQL | PostgreSQL | SQLite  
-
-### ⚙️ Ferramentas & Outras Skills
-- Git & GitHub  
-- Docker  
-- HTML5 | CSS3 | Bootstrap | Tailwind
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <div align="center">
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
@@ -36,14 +38,6 @@
 
 </div>
 
-<!-- 
 ---
 
-## 🌍 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
-- 📧 **seuemail@exemplo.com**  
-- 🖥️ [Portfólio](https://SEU-PORTFOLIO.com) _(se tiver)_ -->
-
----
-
-✨ Sempre aberto para colaborações em projetos interessantes!
+✨ Sempre aberto a colaborações!
