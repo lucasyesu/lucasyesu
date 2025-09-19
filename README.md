@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Lucas Rafael!
 
-💻 Desenvolvedor focado em **Web & Backend**  
-🚀 Explorando **Docker, Python e boas práticas de arquitetura**  
+💻 Desenvolvedor full-stack: **Frontend & Backend**
 
 ---
 
