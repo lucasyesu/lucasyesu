@@ -8,10 +8,10 @@
 ## 🛠️ Tecnologias
 <div align="center">
 
-<!-- Linguagens -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+<!-- Linguagens --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 <!-- Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> 
@@ -31,10 +31,12 @@
 ---
 
 ## 📊 Estatísticas
-<div align="center" style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=lucasyesu&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyesu&layout=compact&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=lucasyesu&theme=radical&border_radius=6" height="150"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=lucasyesu&limit=5&theme=radical&combine_all_yearly_contributions=true" height="150"/>
 
 </div>
 
