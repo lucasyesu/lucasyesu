@@ -39,9 +39,11 @@
 <div align="center" style="display: flex; gap: 15px; justify-content: center;">
 
   <a href="https://www.instagram.com/luccs__/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram"/>
   </a>
 
 </div>
+
+---
 
 ✨ Sempre aberto a colaborações!
