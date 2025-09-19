@@ -32,12 +32,7 @@
 
 ## 📊 Estatísticas
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasyesu&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyesu&layout=compact&theme=radical" height="150"/>
   <img src="https://streak-stats.demolab.com?user=lucasyesu&theme=radical&border_radius=6" height="150"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=lucasyesu&limit=5&theme=radical&combine_all_yearly_contributions=true" height="150"/>
-
 </div>
 
 ---
