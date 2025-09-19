@@ -34,6 +34,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-rafael-32208026a/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon_2013.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </div>
