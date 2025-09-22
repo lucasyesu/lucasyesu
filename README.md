@@ -30,8 +30,8 @@
 
 ## 📱 Me siga nas redes
 <div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <a href="https://www.instagram.com/luccs__/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="40" height="40" alt="Instagram"/>
+  <a href="https://www.instagram.com/luccs__/" target="_blank" rel="noopener noreferrer" title="Instagram - @luccs__">
+    <img src="https://img.shields.io/badge/-@luccs__-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @luccs__" />
   </a>
   
   <a href="https://www.linkedin.com/in/lucas-rafael-32208026a/" target="_blank">
